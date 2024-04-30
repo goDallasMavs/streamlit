@@ -4,6 +4,5 @@ import time as tm
 import random
 import base64
 import json
-from streamlit_autorefresh import st_autorefresh
 
 st.set_page_config(page_title = "CrossRef", page_icon="🎯", layout = "wide", initial_sidebar_state = "expanded")
